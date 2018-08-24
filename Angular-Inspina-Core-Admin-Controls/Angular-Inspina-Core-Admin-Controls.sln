@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular-Inspina-Core-Admin-Controls", "Angular-Inspina-Core-Admin-Controls\Angular-Inspina-Core-Admin-Controls.csproj", "{53A8AFCB-19ED-4558-96D8-8785C800BCB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular-Inspina-Core-Admin-Controls", "Angular-Inspina-Core-Admin-Controls\Angular-Inspina-Core-Admin-Controls.csproj", "{53A8AFCB-19ED-4558-96D8-8785C800BCB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularCli-Inspina-Core", "AngularCli-Inspina-Core\AngularCli-Inspina-Core.csproj", "{B3E96A45-D62A-452F-8034-068F2D60C784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{53A8AFCB-19ED-4558-96D8-8785C800BCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53A8AFCB-19ED-4558-96D8-8785C800BCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53A8AFCB-19ED-4558-96D8-8785C800BCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E96A45-D62A-452F-8034-068F2D60C784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E96A45-D62A-452F-8034-068F2D60C784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E96A45-D62A-452F-8034-068F2D60C784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E96A45-D62A-452F-8034-068F2D60C784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

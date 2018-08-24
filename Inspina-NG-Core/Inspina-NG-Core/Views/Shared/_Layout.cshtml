@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Inspina_NG_Core</title>
+
+    <link href="~/dist/vendor.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/dist/src/assets/styles/style.scss" asp-append-version="true" />
+</head>
+<body>
+    <h3>This is the layout</h3>
+    @RenderBody()
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>
